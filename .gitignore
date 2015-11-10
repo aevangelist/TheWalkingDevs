@@ -5,12 +5,8 @@
 .DS_Store
 /build
 /captures
-<<<<<<< HEAD
-*.o
 .idea/gradle.xml
 .idea/misc.xml
-=======
 *.iml
 *.ipr
 *.iws
->>>>>>> origin/master
